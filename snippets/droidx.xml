@@ -92,6 +92,9 @@
   <project path="hardware/interfaces" name="hardware_interfaces" remote="droidx" />
   <project path="hardware/motorola" name="hardware_motorola" remote="droidx" />
   <project path="hardware/mediatek" name="hardware_mediatek" remote="droidx" />
+
+  <!-- Prebuilts -->
+  <project path="prebuilts/custom-sdk" name="prebuilts_custom-sdk" remote="droidx"  />
   
   <!-- System repos -->
   <project path="system/bpf" name="system_bpf" remote="droidx" />
