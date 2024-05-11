@@ -91,6 +91,7 @@
   <remove-project name="platform/external/dtc" />
   
   <!-- Hardware repos -->
+  <remove-project name="platform/hardware/google/pixel" />
   <remove-project name="platform/hardware/qcom/wlan" />
   <remove-project name="platform/hardware/qcom/gps" />
   <remove-project name="platform/hardware/libhardware" />
