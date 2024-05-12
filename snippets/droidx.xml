@@ -69,7 +69,7 @@
   <project path="packages/apps/DroidXUIWallpaperStub" name="packages_apps_DroidXUIWallpaperStub" remote="droidx" />
   <project path="packages/apps/RepainterServicePriv" name="packages_apps_RepainterServicePriv" remote="droidx" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="droidx" />
-  <!--<project path="packages/apps/Updater" name="packages_apps_Updater" remote="droidx" />-->
+  <project path="packages/apps/Updater" name="packages_apps_Updater" remote="droidx" />
   <project path="packages/apps/SimpleDeviceConfig" name="packages_apps_SimpleDeviceConfig" remote="droidx" />
   <project path="packages/apps/SimpleSettingsConfig" name="packages_apps_SimpleSettingsConfig" remote="droidx" />
 
