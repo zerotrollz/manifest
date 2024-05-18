@@ -109,6 +109,7 @@
   
   <!-- Vendor repos -->
   <project path="vendor/bcr" name="vendor_bcr" remote="droidx"/>
+  <project path="vendor/certification" name="vendor_certification" remote="droidx-gitlab" />
   <project path="vendor/droidx" name="vendor_droidx" remote="droidx"/>
   <project path="vendor/droidxOTA" name="vendor_droidxOTA" remote="droidx-devices"/>
   <!--<project path="vendor/gms" name="vendor_gms" remote="droidx-gitlab" />-->
